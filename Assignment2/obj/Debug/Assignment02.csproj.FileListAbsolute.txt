@@ -1,0 +1,14 @@
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\shittuola\Documents\Training\Prerana Talukdar\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\shittuola\Documents\Training\Prisca Olumoya\Assignment\UnitTest\Assignment2\Assignment2\obj\Debug\Assignment02.csproj.AssemblyReference.cache
