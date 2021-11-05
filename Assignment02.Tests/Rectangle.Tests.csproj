@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Assignment2\Assignment02.csproj">
+    <ProjectReference Include="..\Assignment2\Rectangle.csproj">
       <Project>{81757ea1-1594-4304-88fe-a32e2172cfe9}</Project>
-      <Name>Assignment02</Name>
+      <Name>Rectangle</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
