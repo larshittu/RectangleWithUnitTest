@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Assignment2\Rectangle.csproj">
+    <ProjectReference Include="..\Rectangle\Rectangle.csproj">
       <Project>{81757ea1-1594-4304-88fe-a32e2172cfe9}</Project>
       <Name>Rectangle</Name>
     </ProjectReference>
